@@ -26,7 +26,7 @@ bla bla bla...
 
 ## Author
 
-👤 **Krishnan Pandya(fuck off)**
+👤 **Krishnan Pandya(fuck)**
 
 * Website: www.spadebeta.in 
 * Twitter: [@krishnan_pandya](https://twitter.com/krishnan_pandya)
