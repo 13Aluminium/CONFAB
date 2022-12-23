@@ -58,7 +58,7 @@ bla bla bla...
 
 * Website: www.spadebeta.in
 <!-- * Twitter: [@](https://twitter.com/krishnan_pandya) -->
-<!-- * Github: [@krishnanpandya007](https://github.com/krishnanpandya007) -->
+* Github: [@krishnanpandya007](https://github.com/21-JD)
 * LinkedIn:[@Jinesh Dolia](https://www.linkedin.com/in/jinesh-dolia-875706233/)
 
 
