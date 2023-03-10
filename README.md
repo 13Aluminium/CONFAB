@@ -12,7 +12,7 @@
 
 </p>
 
-> Chatroom for students, Chatroom for Anynimouty 
+> Confab is an exclusive and anonymous online discussion forum for organizations that value privacy and transparency. It allows members to ask and answer questions freely without the fear of being judged, as it does not require a username. Confab is a powerful tool that fosters collaboration, innovation, and problem-solving in a safe and open environment.
 
 #### Purpose
 When you go on asd..... 
