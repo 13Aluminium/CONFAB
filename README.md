@@ -7,7 +7,7 @@
     <img alt="Code Standard" src="https://img.shields.io/badge/code_style-standard-brightgreen.svg">
   </a>
   <a href="#" target="_blank">
-    <img alt="License: Confab" src="https://img.shields.io/badge/License-Spade Community-yellow.svg" />
+    <img alt="License: Confab" src="https://img.shields.io/badge/License-MIT-blue.svg" />
   </a>
 
 </p>
