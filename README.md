@@ -21,8 +21,7 @@ When you go on asd.....
 bla bla bla...
 
 
-### Join Community
-[CONFAB Official](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
 
 ## Author
 
