@@ -1,8 +1,6 @@
 <h1 align="center">Welcome to Confab Documentation 👋</h1>
 <p>
-  <a href="https://www.npmjs.com/package/use-refillable-state" target="_blank">
-    <img alt="Version" src="https://img.shields.io/npm/v/use-refillable-state.svg">
-  </a>
+
   <a href="https://standardjs.com" target="_blank">
     <img alt="Code Standard" src="https://img.shields.io/badge/code_style-standard-brightgreen.svg">
   </a>
